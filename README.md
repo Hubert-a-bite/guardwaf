@@ -60,3 +60,4 @@ curl -X POST http://localhost:5000/api/scan \
 ## 📝 License
 
 MIT License © 2025 Hubert
+# guardwaf
